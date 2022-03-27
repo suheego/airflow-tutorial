@@ -1,0 +1,9 @@
+# airflow
+logs/
+airflow.cfg
+airflow.db
+webserver_config.py
+*.err
+*.log
+*.out
+*.pid
